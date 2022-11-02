@@ -1,4 +1,4 @@
-#Biscoito Da Sorte (fortune cookie) / JS - React Native Learning
+# Biscoito Da Sorte (fortune cookie) / JS - React Native Learning
 
 It`s an app to retrieve fortune cookie phrases.
 
